@@ -1,0 +1,15 @@
+{
+	"name": "adf-ade-project-balu",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "72f33053-4d87-47c2-9c4a-f68d72046bc7",
+		"tenantId": "20c7a25b-d680-4eb9-85b7-221d99249adb"
+	}
+}
